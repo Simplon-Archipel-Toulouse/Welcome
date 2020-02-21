@@ -49,7 +49,7 @@ Il s'agit d'une remise à niveau sur les savoirs, SAVOIR FAIRE et savoir être a
 
 - Compte tenu des besoins des entreprises, nous prévoyons de travailler en groupe répartis sur des îles représentant les principales famille du dev Web : "ARCHIPEL DU DEV-WEB"
 
-![center](/home/elbabili/Boostnote/notes/archipel.png)
+![center](/archipel.png)
 
         -> île de Java (Mohamed)
         -> île Php (Raphaël)
@@ -206,7 +206,7 @@ Il s'agit d'une remise à niveau sur les savoirs, SAVOIR FAIRE et savoir être a
 
 <h2>Jeudi</h2>
 
-**le DOM**
+**veille sur le DOM**
 
 **Appli fil rouge : étape 1/console**
 
@@ -231,7 +231,7 @@ Petit programme de simulation d'une boutique en ligne offrant la possibilitée d
 
 <h2>Vendredi</h2>
 
-**C'est quoi la Programmation évènementielle ?**
+**Veille : C'est quoi la Programmation évènementielle ?**
 
 **Appli fil rouge : étape 2/web**
 
