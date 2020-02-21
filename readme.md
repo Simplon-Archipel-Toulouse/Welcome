@@ -31,6 +31,7 @@ Horaires, Absences, retards, pauses
 **Présentation REAC Dev Web**
 
 Interview croisé dynamique
+
 Arbre des compétences
 
 **Programme des 2/3 semaines**
@@ -136,8 +137,11 @@ Il s'agit d'une remise à niveau sur les savoirs, SAVOIR FAIRE et savoir être a
 2.3 Saisir l'âge puis afficher le resultat suivant :
 
     -> bienvenu sur mon site
+    
     -> "Macron" 
+    
     -> 'manu'
+    
     -> vous êtes majeur !
 
 2.4 Puis essayer sans utiliser le caractère anti-slash '\'
@@ -223,8 +227,11 @@ Petit programme de simulation d'une boutique en ligne offrant la possibilitée d
 - Passer commande qui revient à afficher le résumé avec une demande confirmation :
 
     -> RESUME DE VOTRE COMMANDE
+    
     -> id:1 s8 samsung 250€ quantity:2
+    
     -> id:3 ipad apple 350€ quantity:1
+    
     -> prix total de la commande : 850€
 
 *VOUS DEVEZ IMPÉRATIVEMENT UTILISER GIT POUR CE PROJET*
