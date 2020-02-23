@@ -61,6 +61,8 @@ Il s'agit d'une remise à niveau sur les savoirs, SAVOIR FAIRE et savoir être a
         -> île Android (Mohamed)
         -> île Ios (Raphaël)
         
+        -> Presqu'île des Frameworks Front (Raphaël/Mohamed)
+        
         -> île Cordova Ionic (Raphaël/Mohamed)
         -> île React Native (Raphaël/Mohamed)
         
