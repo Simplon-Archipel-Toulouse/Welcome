@@ -189,9 +189,9 @@ Il s'agit d'une remise à niveau sur les savoirs, SAVOIR FAIRE et savoir être a
 
 3.4 Dans une chaine(phrase) donnée, trouver s'il existe un mot, si oui, afficher trouvé. ex : "il fait beau aujourd'hui" mot recherché "beau" donc trouvé !
 
-3.5 : Reprendre 6.1 et retirer le mot de la chaine si trouvé puis afficher la nouvelle chaine. ex : "il fait beau aujourd'hui" donne "il fait aujourd'hui"
+3.5 : Reprendre 3.4 et retirer le mot de la chaine si trouvé puis afficher la nouvelle chaine. ex : "il fait beau aujourd'hui" donne "il fait aujourd'hui"
 
-3.6 : Reprendre 6.2 et remplacer le mot si trouvé par un autre saisi par l'utilisateur. ex : "il fait beau aujourd'hui" donne "il fait chaud aujourd'hui"
+3.6 : Reprendre 3.5 et remplacer le mot si trouvé par un autre saisi par l'utilisateur. ex : "il fait beau aujourd'hui" donne "il fait chaud aujourd'hui"
 
 3.7 : Ecrire un programme qui dit si une chaine est un palindrome, ex : akka, otto... puis tester votre programme avec "Elu par cette crapule"
 
