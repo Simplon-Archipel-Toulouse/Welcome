@@ -236,17 +236,19 @@ Petit programme de simulation d'une boutique en ligne offrant la possibilitée d
     
        -> prix total de la commande : 850€
 
-*VOUS DEVEZ IMPÉRATIVEMENT UTILISER GIT POUR CE PROJET*
 
 <h2>Vendredi</h2>
 
 **Veille : C'est quoi la Programmation évènementielle ?**
+**Veille : Intro à Git**
 
 **Appli fil rouge : étape 2/web**
 
 L'appli est fonctionnelle mais nous souhaitons inter-agir avec celle ci comme sur un vrai site donc plus de console aussi utiliser tous les outils à votre dispo : html/css/js/dom/event..
 
 **Dernières consignes**
+
+*VOUS DEVEZ IMPÉRATIVEMENT UTILISER GIT POUR CE PROJET*
 
 *Penser à la réutilisation de votre appli donc automatiser/factoriser les fonctionnalités principales !*
 
