@@ -177,7 +177,7 @@ Il s'agit d'une remise à niveau sur les savoirs, SAVOIR FAIRE et savoir être a
 **Kata** : programme demande à l'utilisateur s'il souhaite jouer, si non alors sortir du programme, si oui, alors proposer de saisir un chiffre entre 1 et 100 et dire à chaque itération si le chiffre est plus petit ou plus grand... une fois le chiffre trouvé, sortir avec un message : vous avez trouvé en x coups
   -> trouver ensuite un moyen de répéter le programme autant de fois que le souhaite l'utilisateur
 
-**Exercice 3 : Tableau/Fonction/String**
+**Exercice 3 : Tableau/String**
 
 3.1 Parcourir un tableau contenant des notes, écrire la note la plus petite, la plus grande et la moyenne
       -> Combien existe-t-il de manière différente de répondre à la demande ?
