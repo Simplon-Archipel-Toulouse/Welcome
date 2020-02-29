@@ -212,7 +212,7 @@ Il s'agit d'une remise à niveau sur les savoirs, SAVOIR FAIRE et savoir être a
 
 <h2>Jeudi</h2>
 
-**veille sur le DOM**
+**Veille : Intro à Git**
 
 **Appli fil rouge : étape 1/console**
 
@@ -239,12 +239,13 @@ Petit programme de simulation d'une boutique en ligne offrant la possibilitée d
 
 <h2>Vendredi</h2>
 
-**Veille : C'est quoi la Programmation évènementielle ?**
-**Veille : Intro à Git**
+**veille sur le DOM**
+
+**Veille : C'est quoi la Programmation évènementielle avec Js ?**
 
 **Appli fil rouge : étape 2/web**
 
-L'appli est fonctionnelle mais nous souhaitons inter-agir avec celle ci comme sur un vrai site donc plus de console aussi utiliser tous les outils à votre dispo : html/css/js/dom/event..
+L'appli est fonctionnelle mais nous souhaitons inter-agir avec celle ci comme sur un vrai site donc plus de console aussi utiliser tous les moyens à votre dispo : html/css/js/dom/event..
 
 **Dernières consignes**
 
